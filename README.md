@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Tejaswini 👋
 
-<!--
-**Tejaswini2112/Tejaswini2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack AI Engineer passionate about building production-grade AI applications using LLMs, RAG, and agentic workflows.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Python, FastAPI, TypeScript, React
+- LangChain, LangGraph, OpenAI, Anthropic
+- Pinecone, PostgreSQL, Redis
+- AWS (ECS, Lambda, S3, Bedrock)
+- Docker, Kubernetes, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Building
+Production AI systems focused on:
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI workflows
+- LLM evaluation & guardrails
+- AI infrastructure and deployment
+
+## 🌱 Interests
+Generative AI • Agentic AI • LLMOps • AI Infrastructure • Distributed Systems
+
+📫 Reach me: **tejaswinigadde8@gmail.com**
+💼 LinkedIn: https://www.linkedin.com/in/tejaswini-gadde-2645601a1/
