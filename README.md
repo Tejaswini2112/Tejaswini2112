@@ -3,7 +3,7 @@
 Full Stack AI Engineer passionate about building production-grade AI applications using LLMs, RAG, and agentic workflows.
 
 ## 🛠️ Tech Stack
-- Python, FastAPI, TypeScript, React
+- Python, FastAPI, TypeScript, React, Angular, Node.js, Express, Django
 - LangChain, LangGraph, OpenAI, Anthropic
 - Pinecone, PostgreSQL, Redis
 - AWS (ECS, Lambda, S3, Bedrock)
