@@ -19,5 +19,6 @@ Production AI systems focused on:
 ## 🌱 Interests
 Generative AI • Agentic AI • LLMOps • AI Infrastructure • Distributed Systems
 
-📫 Reach me: **tejaswinigadde8@gmail.com**
-💼 LinkedIn: https://www.linkedin.com/in/tejaswini-gadde-2645601a1/
+📫 **Email:** tejaswinigadde8@gmail.com
+💼 **LinkedIn:** https://www.linkedin.com/in/tejaswini-gadde-2645601a1/
+🌐 **Portfolio:** https://tejaswini2112.github.io/portfolio/
