@@ -1,6 +1,6 @@
 # Hi, I'm Tejaswini 👋
 
-Full Stack AI Engineer passionate about building production-grade AI applications using LLMs, RAG, and agentic workflows.
+AI/ML Engineer passionate about building production-grade AI applications using LLMs, RAG, and agentic workflows.
 
 ## 🛠️ Tech Stack
 - Python, FastAPI, TypeScript, React, Angular, Node.js, Express, Django
